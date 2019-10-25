@@ -18,9 +18,9 @@ PHP Documentation for prepared statements can be found here: https://www.php.net
 
 #### insert.php: 	
 ```
-*Username*: injection
+Username: injection
 
-*Password*:  '); DROP TABLE registration;# 
+Password:  '); DROP TABLE registration;# 
 ```
 
 #### union.php:
