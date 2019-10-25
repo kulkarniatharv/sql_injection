@@ -16,13 +16,13 @@ PHP Documentation for prepared statements can be found here: https://www.php.net
 ## Vulnerable inputs: 
 
 #### insert.php: 	
-'''
+```
 *Username*: injection
 
 *Password*:  '); DROP TABLE registration;# 
-'''
+```
 
 #### union.php:
-'''
+```
 Username to search: ' union select uname, pwd from sqli;#
-'''
+```
