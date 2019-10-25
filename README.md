@@ -7,8 +7,12 @@ To test the files, change the link to the form submission in index.html and exec
 PHP Documentation for prepared statements can be found here: https://www.php.net/manual/en/mysqli.quickstart.prepared-statements.php
 
 Database used: Mysqli;
+
 Scripting Language: PHP;
+
 Server: Localhost (APACHE HTTP SERVER);
+
+
 Vulnerable inputs: 
 
 insert.php: 	
